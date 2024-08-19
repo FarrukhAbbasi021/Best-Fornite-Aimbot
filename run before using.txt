@@ -1,0 +1,14 @@
+window+r
+type cmd
+in the command prompt
+type cd path of your folder
+after that run the prmots below 1-1
+env\Scripts\activate
+pip install -r requirements.txt
+now run the aimbotusing below prompt
+Aimbot.py
+key:POKOR-fgSDCl-8KvXeg
+
+
+
+ 
